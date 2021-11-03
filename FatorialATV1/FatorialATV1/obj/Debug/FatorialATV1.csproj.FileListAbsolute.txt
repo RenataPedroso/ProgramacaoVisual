@@ -1,0 +1,10 @@
+c:\users\renata\source\repos\FatorialATV1\FatorialATV1\bin\Debug\FatorialATV1.exe.config
+c:\users\renata\source\repos\FatorialATV1\FatorialATV1\bin\Debug\FatorialATV1.exe
+c:\users\renata\source\repos\FatorialATV1\FatorialATV1\bin\Debug\FatorialATV1.pdb
+c:\users\renata\source\repos\FatorialATV1\FatorialATV1\obj\Debug\FatorialATV1.csprojAssemblyReference.cache
+c:\users\renata\source\repos\FatorialATV1\FatorialATV1\obj\Debug\FatorialATV1.Form1.resources
+c:\users\renata\source\repos\FatorialATV1\FatorialATV1\obj\Debug\FatorialATV1.Properties.Resources.resources
+c:\users\renata\source\repos\FatorialATV1\FatorialATV1\obj\Debug\FatorialATV1.csproj.GenerateResource.cache
+c:\users\renata\source\repos\FatorialATV1\FatorialATV1\obj\Debug\FatorialATV1.csproj.CoreCompileInputs.cache
+c:\users\renata\source\repos\FatorialATV1\FatorialATV1\obj\Debug\FatorialATV1.exe
+c:\users\renata\source\repos\FatorialATV1\FatorialATV1\obj\Debug\FatorialATV1.pdb
