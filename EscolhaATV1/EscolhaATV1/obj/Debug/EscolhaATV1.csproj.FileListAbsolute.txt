@@ -1,0 +1,10 @@
+c:\users\renata\source\repos\EscolhaATV1\EscolhaATV1\obj\Debug\EscolhaATV1.csprojAssemblyReference.cache
+c:\users\renata\source\repos\EscolhaATV1\EscolhaATV1\obj\Debug\EscolhaATV1.Form1.resources
+c:\users\renata\source\repos\EscolhaATV1\EscolhaATV1\obj\Debug\EscolhaATV1.Properties.Resources.resources
+c:\users\renata\source\repos\EscolhaATV1\EscolhaATV1\obj\Debug\EscolhaATV1.csproj.GenerateResource.cache
+c:\users\renata\source\repos\EscolhaATV1\EscolhaATV1\obj\Debug\EscolhaATV1.csproj.CoreCompileInputs.cache
+c:\users\renata\source\repos\EscolhaATV1\EscolhaATV1\bin\Debug\EscolhaATV1.exe.config
+c:\users\renata\source\repos\EscolhaATV1\EscolhaATV1\bin\Debug\EscolhaATV1.exe
+c:\users\renata\source\repos\EscolhaATV1\EscolhaATV1\bin\Debug\EscolhaATV1.pdb
+c:\users\renata\source\repos\EscolhaATV1\EscolhaATV1\obj\Debug\EscolhaATV1.exe
+c:\users\renata\source\repos\EscolhaATV1\EscolhaATV1\obj\Debug\EscolhaATV1.pdb
